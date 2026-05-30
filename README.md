@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ferrium-banner.png" />
+  <img src="./assets/ferriumbanner.png" />
 </p>
 
 <h1 align="center">Ferrium</h1>
