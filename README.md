@@ -7,7 +7,7 @@
 
 ![Rust](https://img.shields.io/badge/Rust-Native-orange)
 ![Status](https://img.shields.io/badge/Status-Active-blue)
-![License](https://opensource.org/licenses/Apache-2.0)
+![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 
 # Ferrium
