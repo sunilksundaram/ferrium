@@ -2,15 +2,14 @@
   <img src="./assets/ferriumbanner.png" />
 </p>
 
-<h1 align="center">Ferrium</h1>
-<p align="center"><b>Ironclad Intelligent Agents.</b></p>
-
 ![Rust](https://img.shields.io/badge/Rust-Native-orange)
 ![Status](https://img.shields.io/badge/Status-Active-blue)
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg)
 
 
 # Ferrium
+#### Ironclad Intelligent Agents!
+
 ## Introduction
 
 __Ferrium__ is a Rust-native platform for building reliable, autonomous, and composable agentic systems.
