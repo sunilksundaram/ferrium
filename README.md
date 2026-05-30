@@ -2,13 +2,12 @@
   <img src="./assets/ferriumbanner.png" />
 </p>
 
+# Ferrium
+#### Ironclad Intelligent Agents!
+
 ![Rust](https://img.shields.io/badge/Rust-Native-orange)
 ![Status](https://img.shields.io/badge/Status-Active-blue)
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg)
-
-
-# Ferrium
-#### Ironclad Intelligent Agents!
 
 ## Introduction
 
